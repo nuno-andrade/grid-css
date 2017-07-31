@@ -1,14 +1,8 @@
 {
-  "name": "fastshell",
-  "title": "Fiercely quick and opinionated front-ends",
-  "author": "Hossein Karami",
-  "url": "https://HosseinKarami.github.io/fastshell",
-  "version": "1.0.5",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/HosseinKarami/fastshell.git"
-  },
+  "name": "CSS Grid Playground",
+  "title": "CSS Grid Playground",
+  "author": "Nuno Andrade",
+ ,
   "devDependencies": {
     "browser-sync": "^2.11.1",
     "gulp": "^3.9.0",
